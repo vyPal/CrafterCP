@@ -1,0 +1,27 @@
+{
+  "name": "craftercp",
+  "version": "1.0.0",
+  "description": "A simple node.js application to easily manage your minecraft server hosting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyPal/CrafterCP.git"
+  },
+  "keywords": [
+    "server",
+    "hosting",
+    "mc",
+    "application",
+    "manager",
+    "minecraft"
+  ],
+  "author": "vyPal",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vyPal/CrafterCP/issues"
+  },
+  "homepage": "https://github.com/vyPal/CrafterCP#readme"
+}
